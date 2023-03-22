@@ -1,2 +1,3 @@
 # Gentools
-Various scripts for genetic data analysis
+Scripts for genetic data analysis
+OG2fastAln.py
